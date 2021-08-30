@@ -6,6 +6,7 @@
 ## USUARIO E SENHA
 ### email: coders@email.com
 ### senha: desafio2021
+### url: http://localhost
 
 ## INSTALAÇÃO COM DOCKER COMPOSE
 #### composer install
