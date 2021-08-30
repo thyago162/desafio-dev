@@ -22,7 +22,7 @@
     </head>
     <body >
         <div id="app">
-        <example-component></example-component>
+            <app></app>
         </div>
         
     </body>
